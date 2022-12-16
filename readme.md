@@ -21,7 +21,7 @@ Ou curta as imagens logo abaixo! 😁😍👍👽
 Obrigado. (●'◡'●) 
 
 <a target="_blank" href="https://www.apoiografico.com">
-    <img src="https://github.com/robertojunnior/apoio-grafico/blob/main/img-site/screencapture-apoiografico-2022-12-16-04_57_58.png?raw=true" alt="site-apoio-grafico">
+    <img src="https://github.com/robertojunnior/apoio-grafico/blob/main/img-site/screencapture-apoiografico-2022-12-16-05_07_22.png" alt="site-apoio-grafico">
     <img src="https://github.com/robertojunnior/apoio-grafico/blob/main/img-site/screencapture-apoiografico-servicos-2022-12-16-04_54_18.png" alt="site-apoio-grafico">
     <img src="https://github.com/robertojunnior/apoio-grafico/blob/main/img-site/screencapture-apoiografico-contato-2022-12-16-04_55_12.png" alt="site-apoio-grafico">
     <img src="https://github.com/robertojunnior/apoio-grafico/blob/main/img-site/screencapture-apoiografico-quem-somos-2022-12-16-04_54_43.png" alt="site-apoio-grafico">

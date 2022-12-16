@@ -1,6 +1,6 @@
 Meu 1º Projeto pessoal 😁👍
 
-Site criado para empresa de um amigo onde faço Freelance como Designer Gráfico chamada APOIO GRÁFICO com formulário e Captcha utilizando os seguintes plugins:
+Site criado para empresa de um amigo onde faço Freelance como Designer Gráfico chamada APOIO GRÁFICO, com formulário e Captcha utilizando os seguintes plugins:
 
  - Updraft plus;
  - Rank math SEO;

@@ -18,7 +18,8 @@ TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 - Corel Draw.
 
 
-Abaixo etapa atual em que o msite se encontra, assim que for avançando será atualizado automaticamente.
+Abaixo etapa atual em que o site se encontra, assim que for avançando será atualizado automaticamente.
+
 Site está atualemnte com 91 de nota de desempenho Desktop no "PageSpeed do Google", conforme imagem abaixo.
 
 Para visualizar a parcial do projeto é só visitar o site <a target="_blank" href="https://www.apoiografico.com"> Clicando aqui!</a>

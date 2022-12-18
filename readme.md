@@ -19,6 +19,7 @@ TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 
 - Wordpress;
 - Elementor;
+- HTML5;
 - CSS3;
 - Photoshop;
 - Corel Draw.

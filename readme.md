@@ -1,3 +1,9 @@
+<a target="_blank" href="https://www.apoiografico.com">
+    <img width="100px" src="./img-site/logo.png" alt="site-mundo-geek">
+</a>
+<br>
+<br>
+
 Meu 1º Projeto pessoal 😁👍
 
 Site criado para empresa de um amigo onde faço Freelance como Designer Gráfico chamada APOIO GRÁFICO, com formulário e Captcha utilizando os seguintes plugins:
@@ -13,6 +19,7 @@ TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 
 - Wordpress;
 - Elementor;
+- HTML5;
 - CSS3;
 - Photoshop;
 - Corel Draw.

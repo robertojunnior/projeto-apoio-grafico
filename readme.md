@@ -36,10 +36,10 @@ Obrigado. (●'◡'●)
 
 
 <a target="_blank" href="https://www.apoiografico.com">
-     <img src="https://github.com/robertojunnior/projeto-apoio-grafico/blob/main/img-site/mockup%20boneco%20mobile.png" alt="mockup-site">
-    <img src="https://github.com/robertojunnior/projeto-apoio-grafico/blob/main/img-site/Captura%20de%20tela%202022-12-16%20052259.png" alt="site-apoio-grafico-page-spped">
-    <img src="https://github.com/robertojunnior/apoio-grafico/blob/main/img-site/screencapture-apoiografico-2022-12-16-05_24_24.png" alt="site-apoio-grafico">
-    <img src="https://github.com/robertojunnior/apoio-grafico/blob/main/img-site/screencapture-apoiografico-servicos-2022-12-16-04_54_18.png" alt="site-apoio-grafico">
-    <img src="https://github.com/robertojunnior/apoio-grafico/blob/main/img-site/screencapture-apoiografico-contato-2022-12-16-04_55_12.png" alt="site-apoio-grafico">
-    <img src="https://github.com/robertojunnior/apoio-grafico/blob/main/img-site/screencapture-apoiografico-quem-somos-2022-12-16-04_54_43.png" alt="site-apoio-grafico">
+     <img src="./img-site/mockup-boneco-apoio.png" alt="mockup-site">
+    <img src="./img-site/page-speed-apoio-desktop.png" alt="site-apoio-grafico-page-spped">
+    <img src="./img-site/home-desktop.png" alt="site-apoio-grafico">
+    <img src="./img-site/servicos-apoio.png" alt="site-apoio-grafico">
+    <img src="./img-site/contato-apoio.png" alt="site-apoio-grafico">
+    <img src="./img-site/quem-somos-apoio.png" alt="site-apoio-grafico">
 </a>

@@ -26,7 +26,7 @@ TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 
 
 Abaixo etapa atual em que o site se encontra, assim que for avançando será atualizado automaticamente. <br>
-Site está atualemnte com 91 de nota de desempenho Desktop no "PageSpeed do Google", conforme imagem abaixo.
+Site está atualemnte com boa média de desempenho Desktop no "PageSpeed do Google" e "GTmetrix", conforme imagens abaixo.
 
 Para visualizar a parcial do projeto é só visitar o site <a target="_blank" href="https://www.apoiografico.com"> Clicando aqui!</a>. <br>
 Ou curta as imagens logo abaixo! 😁😍👍👽

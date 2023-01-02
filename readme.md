@@ -38,6 +38,7 @@ Obrigado. (●'◡'●)
 <a target="_blank" href="https://www.apoiografico.com">
      <img src="./img-site/mockup-boneco-apoio.png" alt="mockup-site">
     <img src="./img-site/page-speed-apoio-desktop.png" alt="site-apoio-grafico-page-spped">
+    <img src="./img-site/gtmetrix.png" alt="site-apoio-grafico-gtmetrix">
     <img src="./img-site/home-desktop.png" alt="site-apoio-grafico">
     <img src="./img-site/servicos-apoio.png" alt="site-apoio-grafico">
     <img src="./img-site/contato-apoio.png" alt="site-apoio-grafico">

@@ -40,7 +40,7 @@ Obrigado. (●'◡'●)
     <img src="./img-site/pagespeed-apoio.png" alt="site-apoio-grafico-page-spped">
     <img src="./img-site/gtmetrix.png" alt="site-apoio-grafico-gtmetrix">
     <img src="./img-site/home-desktop.png" alt="site-apoio-grafico">
-    <img src="./img-site/" alt="site-apoio-grafico">
+    <img src="./img-site/servicos-apoio.png" alt="site-apoio-grafico">
     <img src="./img-site/contato-apoio.png" alt="site-apoio-grafico">
     <img src="./img-site/quem-somos-apoio.png" alt="site-apoio-grafico">
 </a>

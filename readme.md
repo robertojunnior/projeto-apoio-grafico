@@ -24,6 +24,16 @@ TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 - Photoshop;
 - Corel Draw.
 
+Atualização 2025
+- Redesign total;
+- Implementação de e-commerce;
+- Migração de hospedagem;
+- Contas de usuários e emails;
+- Páginas de LGPD;
+- Página de Termos e condições;
+- Página de Regras de trocas e devoluções;
+- Sistema Checkout Mercado Pago API
+- Sistema de frente "Super Frete".
 
 Abaixo etapa atual em que o site se encontra, assim que for avançando será atualizado automaticamente. <br>
 Site está atualemnte com boa média de desempenho Desktop no "PageSpeed do Google" e "GTmetrix", conforme imagens abaixo.
